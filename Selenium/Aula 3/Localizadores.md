@@ -24,5 +24,9 @@ Essa tabela foi retirada do site do [Selenium][0].
 ## Como encontrar os localizadores
 
 1. Abra a uma página que você quiser no seu navegador de escolha, como exemplo vamos utilizar o Google Chrome.
-![p](Images\Selenium\Selenium-Aula3-1.png)
+
+![Página](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Images/Selenium/Selenium-Aula3-1.png)
+
 2. Aperte a tecla "F12" no seu teclado para a brirar as ferramenas de desenvolvedor.
+
+![DevTools](./Images/Selenium/Selenium-Aula3-2.png)
