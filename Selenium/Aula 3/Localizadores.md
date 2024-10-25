@@ -29,4 +29,4 @@ Essa tabela foi retirada do site do [Selenium][0].
 
 2. Aperte a tecla "F12" no seu teclado para a brirar as ferramenas de desenvolvedor.
 
-![DevTools](./Images/Selenium/Selenium-Aula3-2.png)
+![DevTools](.\mages\Selenium\Selenium-Aula3-2.png)
