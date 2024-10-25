@@ -1,4 +1,6 @@
 """
+IMPORTS E DRIVER
+
 No início de cada arquivo, é necessário importar as bibliotecas e módulos que serão utilizados.
 
 Neste caso, estamos importando a biblioteca Selenium e, especificamente, o módulo "webdriver".

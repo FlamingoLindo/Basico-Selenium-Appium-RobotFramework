@@ -1,4 +1,6 @@
 """
+ABRINDO UMA PÁGINA
+
 Como foi estabelecido na aula anterior (1), no começo de todo arquivo é necessário importar as dependências.
 
 Nessa aula iremos importar uma biblioteca que ja vem junto com a instalação do python --> time

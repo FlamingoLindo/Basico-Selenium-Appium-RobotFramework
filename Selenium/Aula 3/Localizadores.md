@@ -1,8 +1,12 @@
 # Localizadores
 
+---
+
 ## O que são localizadores?
 
 Localizadores são ulizados para indentificar algum elemento em uma página.
+
+---
 
 ## Quais são os tipos de localizadores?
 
@@ -20,6 +24,8 @@ Localizadores são ulizados para indentificar algum elemento em uma página.
 Essa tabela foi retirada do site do [Selenium][0].
 
 [0]:https://www.selenium.dev/documentation/webdriver/elements/locators/
+
+---
 
 ## Como encontrar os localizadores
 
@@ -64,6 +70,8 @@ Como você deve ter reparado, quando fomos copiar o XPath, haviam diversas opç�
 * seletor
 * XPath
 * full XPath
+
+---
 
 ## Qual tipo de seletor usar?
 
