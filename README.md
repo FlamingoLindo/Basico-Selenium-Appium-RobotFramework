@@ -11,19 +11,19 @@ Repositório feito com o intuio de ensinar o básico da automatização web e mo
 
 ## Selenium
 
-* [Aula 1 - Imports e drivers](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%201/imports_e_driver.py)
+* [Aula 1 - Imports e drivers](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%201%20-%20Imports%20e%20drivers/imports_e_driver.py)
 
-* [Aula 2 - Abrindo uma página](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%202/abrindo_uma_pagina.py)
+* [Aula 2 - Abrindo uma página](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%202%20-%20Abrindo%20uma%20p%C3%A1gina/abrindo_uma_pagina.py)
 
-* [Aula 3 - O que são localizadores?](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%203/Localizadores.md)
+* [Aula 3 - O que são localizadores?](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%203%20-%20O%20que%20s%C3%A3o%20localizadores/Localizadores.md)
 
-* [Aula 4 - Achando um elemento](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204/achando_nosso_primeiro_elemento.py)
+* [Aula 4 - Achando um elemento](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204%20-%20Achando%20um%20elemento/achando_nosso_primeiro_elemento.py)
 
-    * [Desafio XPath](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204/desafio_xpath.py)
+    * [Desafio XPath](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204%20-%20Achando%20um%20elemento/desafio_xpath.py)
 
-* [Aula 5 - Esperando um elemento carregar](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%205/esprando_o_elemento_carregar.py)
+* [Aula 5 - Esperando um elemento carregar](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%205%20-%20Esperando%20um%20elemento%20carregar/esprando_o_elemento_carregar.py)
 
-* [Aula 6 - Clicando e digitando em elementos](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%206/digitando_e_clicando.py)
+* [Aula 6 - Clicando e digitando em elementos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%206%20-%20Digitando%20e%20clicando%20em%20um%20elemento/digitando_e_clicando.py)
 
 * [Aula 7 - Guias e janelas](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas)
 
