@@ -11,8 +11,6 @@ Repositório feito com o intuio de ensinar o básico da automatização web e mo
 
 ## Selenium
 
-
-
 * [Aula 1 - Imports e drivers](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%201/imports_e_driver.py)
 
 * [Aula 2 - Abrindo uma página](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%202/abrindo_uma_pagina.py)
@@ -20,11 +18,21 @@ Repositório feito com o intuio de ensinar o básico da automatização web e mo
 * [Aula 3 - O que são localizadores?](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%203/Localizadores.md)
 
 * [Aula 4 - Achando um elemento](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204/achando_nosso_primeiro_elemento.py)
+
     * [Desafio XPath](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204/desafio_xpath.py)
 
 * [Aula 5 - Esperando um elemento carregar](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%205/esprando_o_elemento_carregar.py)
 
 * [Aula 6 - Clicando e digitando em elementos](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%206/digitando_e_clicando.py)
 
+* [Aula 7 - Guias e janelas](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas)
+
+    * [Nova guia](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas/nova_guia.py)
+
+    * [Nova Janela](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas/nova_janela.py)
+
+* [Aula 8 - Interções com a página](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%208%20-%20Intera%C3%A7%C3%B5es%20com%20a%20p%C3%A1gina/interacoes_pagina.py)
+
+* [Aula 9 - Enviando arquivos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%209%20-%20Enviando%20arquivos/enviando_arquivo.py)
 ---
 

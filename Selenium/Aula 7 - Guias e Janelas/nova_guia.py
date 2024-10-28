@@ -1,3 +1,7 @@
+"""
+ABRINDO UMA NOVA GUIA
+"""
+
 import time
 from selenium import webdriver
 

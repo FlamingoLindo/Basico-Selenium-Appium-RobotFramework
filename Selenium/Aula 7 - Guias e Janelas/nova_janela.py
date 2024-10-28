@@ -1,3 +1,7 @@
+"""
+ABRINDO UMA NOVA JANELA
+"""
+
 import time
 from selenium import webdriver
 
