@@ -1,6 +1,6 @@
 # Introdução à automatização com Selenium, Appium e Robot Framework
 
-Repositório feito com o intuio de ensinar o básico da automatização web e mobile utilizando Selenium, Appium e Robot Framework com python
+Repositório feito com o intuito de ensinar o básico da automatização web e mobile utilizando Selenium, Appium e Robot Framework com python
 
 ---
 
