@@ -23,3 +23,16 @@ https://inspector.appiumpro.com/
 |------|------|-------|
 |platformName|text|Android|
 |appium:automationName|text|uiautomator2|
+
+Existem diversas capacidades com diversas funções, não vamos entrar muito a fundo nelas nesse tutorial, mas essas duas são as essenciais.
+
+Caso você queria conhecer mais sobre elas segue o link para a página da [documentação](https://appium.io/docs/en/latest/guides/caps/):
+https://appium.io/docs/en/latest/guides/caps/
+
+## Usando o inspetor
+
+Após declarar as capacidades, clique em `Start Session`.
+
+Agora você pode usar o Inspector como se ele fosse a ferramenta do google para localizar elementos.
+
+![usando](/Images/Appium/Appium-Aula2-13.png)
