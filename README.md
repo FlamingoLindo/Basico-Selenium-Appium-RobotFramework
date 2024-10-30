@@ -4,7 +4,7 @@ Repositório feito com o intuito de ensinar o básico da automatização web e m
 
 ---
 
-[Como instalar](https://docs.google.com/presentation/d/1B49Ph-Zcivt7ajPWDNcj5UkxH8XzPRBhez2nBIoEkDc/edit?usp=sharing) &nbsp;&nbsp;&nbsp; [Página selenium](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/tree/main/Selenium)
+[Como instalar](https://docs.google.com/presentation/d/1B49Ph-Zcivt7ajPWDNcj5UkxH8XzPRBhez2nBIoEkDc/edit?usp=sharing) &nbsp;&nbsp;&nbsp; [Página selenium](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/tree/main/Selenium) &nbsp;&nbsp;&nbsp; [Página appium](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Appium)
 
 
 ---
@@ -36,3 +36,12 @@ Repositório feito com o intuito de ensinar o básico da automatização web e m
 * [Aula 9 - Enviando arquivos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%209%20-%20Enviando%20arquivos/enviando_arquivo.py)
 ---
 
+## Appium
+
+* [Aula 1 - O que é necessário](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%201%20-%20O%20que%20%C3%A9%20necess%C3%A1rio/necessario.md)
+
+* [Aula 2 - Conectando o celular com o computador](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%202%20-%20Conectando%20o%20celular%20com%20o%20computador/conectando.md)
+
+* [Aula 3 - Abrindo o isnpetor de elementos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%203%20-%20Abrindo%20o%20isnpetor%20de%20elementos/inspetor.md)
+
+* [Aula 4 - Elementos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%204%20-%20Elementos/elementos.md)
