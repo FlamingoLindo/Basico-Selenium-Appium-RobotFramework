@@ -31,7 +31,7 @@ Repositório feito com o intuito de ensinar o básico da automatização web e m
 
     * [Nova Janela](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas/nova_janela.py)
 
-* [Aula 8 - Interções com a página](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%208%20-%20Intera%C3%A7%C3%B5es%20com%20a%20p%C3%A1gina/interacoes_pagina.py)
+* [Aula 8 - Interações com a página](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%208%20-%20Intera%C3%A7%C3%B5es%20com%20a%20p%C3%A1gina/interacoes_pagina.py)
 
 * [Aula 9 - Enviando arquivos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%209%20-%20Enviando%20arquivos/enviando_arquivo.py)
 ---
