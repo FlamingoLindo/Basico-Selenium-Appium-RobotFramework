@@ -51,13 +51,3 @@ capabilities = dict(
 Informa ao Appium qual o endereço em que o servidor está localizado.
 """
 appium_server_url = 'http://localhost:4723'
-
-    
-# PS C:\Users\josef> adb devices
-# List of devices attached
-# RQCTB03Y4GB     device
-
-# PS C:\Users\josef> adb shell
-# m53x:/ $ dumpsys window displays | grep -E 'mCurrentFocus'
-#   mCurrentFocus=Window{cb6c5bb u0 com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}
-# m53x:/ $
