@@ -45,3 +45,11 @@ Repositório feito com o intuito de ensinar o básico da automatização web e m
 * [Aula 3 - Abrindo o isnpetor de elementos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%203%20-%20Abrindo%20o%20isnpetor%20de%20elementos/inspetor.md)
 
 * [Aula 4 - Elementos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%204%20-%20Elementos/elementos.md)
+
+* [Aula 5 - Imports e capabilities](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%205%20-%20Imports%20e%20capabilities/imports_capabilities.py)
+
+* [Aula 6 - App Package e Activity](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%206%20-%20App%20Package%20e%20Activity/app_package_activity.md)
+
+* [Aula 7 - Estrutura](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%207%20-%20Estrutura/estrutura.py)
+
+* [Aula 8 - Interagindo](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%208%20-%20Interagindo/interagindo.py)
