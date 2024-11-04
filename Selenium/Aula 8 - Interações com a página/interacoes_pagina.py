@@ -8,6 +8,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
+"""
+Importação do ActionChains
+"""
+from selenium.webdriver.common.action_chains import ActionChains
+
+
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 5)
 
@@ -36,6 +42,12 @@ time.sleep(2)
 A função "refresh()" é utilizada para recarregar à página em que o driver está.
 """
 driver.refresh()
+
+"""
+Utilizado para scrollar até um certo elemento, neste caso o footer da página.
+"""
+footer = driver.find_element(By.XPATH, "/html/body/div/footer")
+ActionChains(driver).scroll_to_element(footer).perform()
 
 time.sleep(10)
 
