@@ -61,7 +61,7 @@ time.sleep(0.5)
 done_btn.click()
 
 alert = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, 'server-message-alert')))
-time.slee(5)
+time.sleep(5)
 
 driver.quit()
 

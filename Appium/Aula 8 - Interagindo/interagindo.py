@@ -40,6 +40,9 @@ class TestAppium(unittest.TestCase):
 
         result = wait.until(EC.element_to_be_clickable((AppiumBy.ANDROID_UIAUTOMATOR, 'new UiSelector().resourceId("com.google.android.youtube:id/linearLayout").instance(0)')))        
         result.click()
+        
+        video = wait.until(EC.visibility_of_element_located((AppiumBy.XPATH, '//android.support.v7.widget.RecyclerView[@resource-id="com.google.android.youtube:id/results"]/android.view.ViewGroup[4]')))
+        video.click()
 
 
 if __name__ == '__main__':
