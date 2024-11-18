@@ -68,7 +68,7 @@ Este repositório contém materiais de aprendizado sobre automação de testes u
 
 ## 🔗 Links Úteis:
 - [Documentação Selenium](https://www.selenium.dev/documentation/)
-- [Documentação Appium](https://appium.io/docs/en/about-appium/intro/)
+- [Documentação Appium](https://appium.io/)
 - [Documentação Robot Framework](https://robotframework.org/)
 
 ## 🎓 Como Contribuir:
