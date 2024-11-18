@@ -2,21 +2,7 @@
 
 ---
 
-**[Selenium](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/tree/main/Selenium)**
-
-[Aula 1 - Importações e Driver](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%201/imports_e_driver.py)
-
-[Aula 2 - Abrindo uma página](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%202/abrindo_uma_pagina.py)
-
-[Aula 3 - Localizadores](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%203/Localizadores.md)
-
-[Aula 4 - Achando um elemento](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204/achando_nosso_primeiro_elemento.py)
-
-[Aula 5 - Esperando um elemento carregar](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%205/esprando_o_elemento_carregar.py)
-
----
-
-[Como instalar](https://docs.google.com/presentation/d/1B49Ph-Zcivt7ajPWDNcj5UkxH8XzPRBhez2nBIoEkDc/edit?usp=sharing) &nbsp;&nbsp;&nbsp; [Página selenium](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/tree/main/Selenium) &nbsp;&nbsp;&nbsp; [Página appium](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Appium)
+[Como instalar](https://docs.google.com/presentation/d/1B49Ph-Zcivt7ajPWDNcj5UkxH8XzPRBhez2nBIoEkDc/edit?usp=sharing) &nbsp;&nbsp;&nbsp; [Página selenium](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/tree/main/Selenium) &nbsp;&nbsp;&nbsp; [Página appium](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Appium) &nbsp;&nbsp;&nbsp; [Página robotframework](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Robotframework)
 
 
 ---
@@ -65,3 +51,9 @@
 * [Aula 7 - Estrutura](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%207%20-%20Estrutura/estrutura.py)
 
 * [Aula 8 - Interagindo](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%208%20-%20Interagindo/interagindo.py)
+
+## Robotframework
+
+* [Aula 1 - Configurando o ambiente]()
+
+---
