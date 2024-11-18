@@ -4,10 +4,9 @@
 
 [Como instalar](https://docs.google.com/presentation/d/1B49Ph-Zcivt7ajPWDNcj5UkxH8XzPRBhez2nBIoEkDc/edit?usp=sharing) &nbsp;&nbsp;&nbsp; [Página selenium](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/tree/main/Selenium) &nbsp;&nbsp;&nbsp; [Página appium](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Appium) &nbsp;&nbsp;&nbsp; [Página robotframework](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Robotframework)
 
-
 ---
 
-## Selenium
+## <span style="display: flex; align-items: center; justify-content: center;">Selenium <img src="/Images/Selenium_Logo.png" alt="Selenium Icon" width="30" height="30"></span>
 
 * [Aula 1 - Imports e drivers](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%201%20-%20Imports%20e%20drivers/imports_e_driver.py)
 
@@ -32,9 +31,10 @@
 * [Aula 8 - Interações com a página](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%208%20-%20Intera%C3%A7%C3%B5es%20com%20a%20p%C3%A1gina/interacoes_pagina.py)
 
 * [Aula 9 - Enviando arquivos](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%209%20-%20Enviando%20arquivos/enviando_arquivo.py)
+
 ---
 
-## Appium
+## <span style="display: flex; align-items: center; justify-content: center;">Appium <img src="/Images/Appium_Logo.png" alt="Appium Icon" width="30" height="30"></span>
 
 * [Aula 1 - O que é necessário](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%201%20-%20O%20que%20%C3%A9%20necess%C3%A1rio/necessario.md)
 
@@ -52,11 +52,14 @@
 
 * [Aula 8 - Interagindo](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Appium/Aula%208%20-%20Interagindo/interagindo.py)
 
-## Robotframework
+---
+
+## <span style="display: flex; align-items: center; justify-content: center;">Robotframework <img src="/Images/Robot_Logo.png" alt="Robotframework Icon" width="50" height="50"></span>
 
 * [Aula 1 - Configurando o ambiente](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Robotframework/Aula%201%20-%20Configurando%20o%20ambiente/configs.md)
 
 * [Aula 2 - Keywords e variables](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Robotframework/Aula%202%20-%20Keywords%20e%20variables/keywords_variables.md)
 
 * [Aula 3 - Criando e executanto um teste](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Robotframework/Aula%203%20-%20Criando%20e%20%20executando%20um%20teste/teste.md)
+
 ---
