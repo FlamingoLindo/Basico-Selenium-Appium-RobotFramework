@@ -1,5 +1,12 @@
-.geckodriver
-.log
-.output
-.report
-.selenium-screenshot
+# Ignore log files
+*.log
+
+# Ignore HTML reports
+log.html
+report.html
+
+# Ignore XML output
+output.xml
+
+# Ignore screenshots and images
+selenium-screenshot*.png

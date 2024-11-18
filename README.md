@@ -56,4 +56,7 @@
 
 * [Aula 1 - Configurando o ambiente]()
 
+* [Aula 2 - Keywords e variables]()
+
+* [Aula 3 - Criando e executanto um teste]()
 ---
