@@ -1,5 +1,7 @@
 # Introdução à automatização com Selenium, Appium e Robot Framework
 
+Este repositório contém materiais de aprendizado sobre automação de testes utilizando Selenium, Appium e Robot Framework. Aqui, você encontrará uma série de aulas práticas e recursos para começar com testes automatizados.
+
 ---
 
 [Como instalar](https://docs.google.com/presentation/d/1B49Ph-Zcivt7ajPWDNcj5UkxH8XzPRBhez2nBIoEkDc/edit?usp=sharing) &nbsp;&nbsp;&nbsp; [Página selenium](https://github.com/FlamingoLindo/Basico-Selenium-Appium-RobotFramework/tree/main/Selenium) &nbsp;&nbsp;&nbsp; [Página appium](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Appium) &nbsp;&nbsp;&nbsp; [Página robotframework](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Robotframework)
@@ -63,3 +65,13 @@
 * [Aula 3 - Criando e executanto um teste](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Robotframework/Aula%203%20-%20Criando%20e%20%20executando%20um%20teste/teste.md)
 
 ---
+
+## 🔗 Links Úteis:
+- [Documentação Selenium](https://www.selenium.dev/documentation/)
+- [Documentação Appium](https://appium.io/docs/en/about-appium/intro/)
+- [Documentação Robot Framework](https://robotframework.org/)
+
+## 🎓 Como Contribuir:
+1. Fork este repositório.
+2. Crie uma branch para suas alterações.
+3. Faça suas alterações e envie um Pull Request.
