@@ -54,9 +54,9 @@
 
 ## Robotframework
 
-* [Aula 1 - Configurando o ambiente]()
+* [Aula 1 - Configurando o ambiente](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Robotframework/Aula%201%20-%20Configurando%20o%20ambiente/configs.md)
 
-* [Aula 2 - Keywords e variables]()
+* [Aula 2 - Keywords e variables](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Robotframework/Aula%202%20-%20Keywords%20e%20variables/keywords_variables.md)
 
-* [Aula 3 - Criando e executanto um teste]()
+* [Aula 3 - Criando e executanto um teste](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Robotframework/Aula%203%20-%20Criando%20e%20%20executando%20um%20teste/teste.md)
 ---
