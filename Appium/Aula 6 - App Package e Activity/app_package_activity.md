@@ -1,4 +1,4 @@
-# Como achar appPackage e appActivity de um aplicativo? 
+# Como achar appPackage e appActivity de um aplicativo?
 
 1. Abra o terminal e digite o seguinte comando:
 

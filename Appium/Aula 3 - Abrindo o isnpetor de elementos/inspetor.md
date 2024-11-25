@@ -11,7 +11,7 @@ Para iniciar o servidor basta digitar a seguinte linha no terminal: `appium --al
 ## Abrindo o inspetor
 
 Agora abra o google e abra o [inspetor](https://inspector.appiumpro.com/):
-https://inspector.appiumpro.com/
+<https://inspector.appiumpro.com/>
 
 1. Dentro do Inspector clique duas (2) vezes na opção para adicionar uma capacidade "capability":
 
@@ -27,7 +27,7 @@ https://inspector.appiumpro.com/
 Existem diversas capacidades com diversas funções, não vamos entrar muito a fundo nelas nesse tutorial, mas essas duas são as essenciais.
 
 Caso você queria conhecer mais sobre elas segue o link para a página da [documentação](https://appium.io/docs/en/latest/guides/caps/):
-https://appium.io/docs/en/latest/guides/caps/
+<https://appium.io/docs/en/latest/guides/caps/>
 
 ## Usando o inspetor
 

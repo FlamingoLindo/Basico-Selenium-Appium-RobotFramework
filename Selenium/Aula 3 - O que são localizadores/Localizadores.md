@@ -99,4 +99,4 @@ Como você deve ter reparado, quando fomos copiar o XPath, haviam diversas opç�
 
 * Use-o apenas em última instância, caso os outros métodos não consigam localizar o elemento, e o layout seja estável.
 
-Achou confuso? Não se preocupe com o tempo você pega o jeito! 
+Achou confuso? Não se preocupe com o tempo você pega o jeito!

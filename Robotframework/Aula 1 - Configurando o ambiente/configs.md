@@ -18,7 +18,7 @@
 
 ![extensao](/Images/Robot/1.png)
 
-* Para pesquisar uma extensão no vscode basta apenas seguir estes passos:
+- Para pesquisar uma extensão no vscode basta apenas seguir estes passos:
 
 ![extensoes](/Images/Robot/2.png)
 
@@ -26,8 +26,8 @@
 
 3. No diretório do seu projeto crie 3 pastas com os seguintes nomes:
 
-* `Keywords`
-* `Resources`
-* `Tests`
+- `Keywords`
+- `Resources`
+- `Tests`
 
 ![imageForThoseWhoDontKnow](/Images/Robot/11.png)

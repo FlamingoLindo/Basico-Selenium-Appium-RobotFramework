@@ -2,13 +2,13 @@
 
 ## Celular conectado pelo USB, wi-fi ou emulador?
 
-1. **Dispositivo via cabo USB:** 
+1. **Dispositivo via cabo USB:**
 É o método mais estável, ideal para testes de UI detalhados. Como está diretamente conectado, há menos chance de latência, e ele suporta quase todas as operações do Appium sem problemas.
 
-2. **Dispositivo via Wi-Fi:** 
+2. **Dispositivo via Wi-Fi:**
 Útil para testes remotos ou quando o dispositivo não pode ser conectado fisicamente. A configuração exige mais passos e depende de um bom sinal de Wi-Fi. A latência é maior, mas ainda assim é útil para algumas automações.
 
-3. **Emulador:** 
+3. **Emulador:**
 Muito utilizado em testes de desenvolvimento e integração contínua (CI/CD). Ele permite um controle maior do ambiente, como configurações de sistema, reinicializações rápidas e criação de estados personalizados para os testes. No entanto, o desempenho pode ser inferior a dispositivos reais.
 
 ### Como conectar pelo USB
@@ -18,8 +18,8 @@ Basta apenas conectar o seu celular com o seu computador com um cabo USB.
 Mas para isso funcionar é preciso ativar a "Depuração USB" nas opções de desenvolvedor do seu dispositovo.
 
 * Ativando opções de desenvolvedor:
-    
-    * Abra as configurações do seu dispositivel:
+
+  * Abra as configurações do seu dispositivel:
     ![configs](/Images/Appium/Appium-Aula2-1.png)
 
     * Pesquise por "**Número de compilação**" e abra essa opção:
@@ -29,8 +29,8 @@ Mas para isso funcionar é preciso ativar a "Depuração USB" nas opções de de
     ![treeTimes](/Images/Appium/Appium-Aula2-3.jpg)
 
 * Ativando a depuração USB:
-    
-    * Pesquise por "**Depuração USB**":
+
+  * Pesquise por "**Depuração USB**":
     ![USBsearch](/Images/Appium/Appium-Aula2-5.jpg)
 
     * Ative a opção "**Depuração USB**":
@@ -46,7 +46,7 @@ Mas para isso funcionar é preciso ativar a "Depuração USB" nas opções de de
 
 Pronto agora seu dispositivo está conectado e pronto para ser utilizado para testes.
 
-### Como conectar por Wi-fi:
+### Como conectar por Wi-fi
 
 * Abra o terminal e digite a seguinte linha de comando "**adb tcpip 5555**":
 

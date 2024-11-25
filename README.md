@@ -18,7 +18,7 @@ Este repositório contém materiais de aprendizado sobre automação de testes u
 
 * [Aula 4 - Achando um elemento](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204%20-%20Achando%20um%20elemento/achando_nosso_primeiro_elemento.py)
 
-    * [Desafio XPath](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204%20-%20Achando%20um%20elemento/desafio_xpath.py)
+  * [Desafio XPath](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%204%20-%20Achando%20um%20elemento/desafio_xpath.py)
 
 * [Aula 5 - Esperando um elemento carregar](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%205%20-%20Esperando%20um%20elemento%20carregar/esprando_o_elemento_carregar.py)
 
@@ -26,9 +26,9 @@ Este repositório contém materiais de aprendizado sobre automação de testes u
 
 * [Aula 7 - Guias e janelas](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/tree/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas)
 
-    * [Nova guia](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas/nova_guia.py)
+  * [Nova guia](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas/nova_guia.py)
 
-    * [Nova Janela](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas/nova_janela.py)
+  * [Nova Janela](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%207%20-%20Guias%20e%20Janelas/nova_janela.py)
 
 * [Aula 8 - Interações com a página](https://github.com/FlamingoLindo/Introducao-Selenium-Appium-RobotFramework/blob/main/Selenium/Aula%208%20-%20Intera%C3%A7%C3%B5es%20com%20a%20p%C3%A1gina/interacoes_pagina.py)
 
@@ -66,12 +66,14 @@ Este repositório contém materiais de aprendizado sobre automação de testes u
 
 ---
 
-## 🔗 Links Úteis:
-- [Documentação Selenium](https://www.selenium.dev/documentation/)
-- [Documentação Appium](https://appium.io/)
-- [Documentação Robot Framework](https://robotframework.org/)
+## 🔗 Links Úteis
 
-## 🎓 Como Contribuir:
+- [Documentação Selenium](https://www.selenium.dev/documentation/)
+* [Documentação Appium](https://appium.io/)
+* [Documentação Robot Framework](https://robotframework.org/)
+
+## 🎓 Como Contribuir
+
 1. Fork este repositório.
 2. Crie uma branch para suas alterações.
 3. Faça suas alterações e envie um Pull Request.

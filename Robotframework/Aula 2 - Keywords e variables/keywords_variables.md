@@ -21,7 +21,7 @@ ${password}   !Aa12345678
 
 ##### Importante
 
-No robotframework é necessário sempre dar uma quantidade necessária de espaço entre um objeto e o seu valor ou parâmetro. 
+No robotframework é necessário sempre dar uma quantidade necessária de espaço entre um objeto e o seu valor ou parâmetro.
 Esse espaço é igual a apertar uma vez na tecla `tab` ou quatro vezes na tecla `espaço`.
 
 ---
